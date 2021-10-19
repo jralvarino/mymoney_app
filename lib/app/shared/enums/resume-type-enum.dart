@@ -1,0 +1,1 @@
+enum ResumeType { RECEITAS, DESPESAS, SALDO, BALANCE }
